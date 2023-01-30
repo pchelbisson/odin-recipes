@@ -1,0 +1,18 @@
+* {
+  background-color: rgb(245, 223, 177);
+  font-family: "Courier New", Courier, monospace;
+}
+
+.header,
+.title {
+  background-color: rgb(255, 255, 130);
+  text-align: center;
+}
+
+.image {
+  width: 700px;
+}
+
+.link {
+  font-size: 20px;
+}
